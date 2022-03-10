@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tap-Pad-Machine/static/css/main.58dcd8dd.css",
+    "main.js": "/Tap-Pad-Machine/static/js/main.dafcf4fa.js",
+    "index.html": "/Tap-Pad-Machine/index.html",
+    "main.58dcd8dd.css.map": "/Tap-Pad-Machine/static/css/main.58dcd8dd.css.map",
+    "main.dafcf4fa.js.map": "/Tap-Pad-Machine/static/js/main.dafcf4fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58dcd8dd.css",
+    "static/js/main.dafcf4fa.js"
+  ]
+}
